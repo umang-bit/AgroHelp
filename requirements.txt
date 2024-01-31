@@ -1,0 +1,12 @@
+Flask
+pickle
+os
+warnings
+xgboost
+sklearn
+tensorflow
+pandas
+numpy
+matplotlib
+seaborn
+gunicorn
